@@ -1,3 +1,5 @@
 # EmulatorJS
 
-Publish scripts for Radon's EmulatorJS NPM package.
+Radon's EmulatorJS NPM package with game cores included.
+
+See https://github.com/EmulatorJS/EmulatorJS
