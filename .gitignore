@@ -1,3 +1,4 @@
 *.tgz
-EmulatorJS/docs
-EmulatorJS/data/minify
+*.tar
+node_modules
+EmulatorJS

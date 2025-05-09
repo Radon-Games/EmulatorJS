@@ -1,10 +1,13 @@
 {
   "name": "@radon-games/emulatorjs",
-  "version": "4.0.12",
+  "version": "4.2.1",
   "description": "EmulatorJS is a frontend for RetroArch in the web browser.",
   "main": "index.cjs",
   "types": "index.d.ts",
   "type": "module",
+  "scripts": {
+    "build": "sh ./build.sh"
+  },
   "files": [
     "./index.d.ts",
     "./EmulatorJS/data/**"
